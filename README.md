@@ -14,4 +14,4 @@
 * **Libraries:** Pandas (Data Wrangling), Matplotlib (Visualization)
 
 ## Interactive Dashboard
-[View Live Dashboard Here](PASTE_LINK_LOOKER_STUDIO_KAMU_DI_SINI)
+[View Live Dashboard Here](https://lookerstudio.google.com/reporting/923eb516-1644-4445-90aa-d2f7726986f5)
