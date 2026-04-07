@@ -12,3 +12,6 @@
 ### 3. Technical Stack
 * **Language:** Python 3.12
 * **Libraries:** Pandas (Data Wrangling), Matplotlib (Visualization)
+
+## Interactive Dashboard
+[View Live Dashboard Here](PASTE_LINK_LOOKER_STUDIO_KAMU_DI_SINI)
