@@ -27,3 +27,6 @@ Visual Reporting: Dashboard interaktif dibangun di Looker Studio dengan fitur cr
 
 ## Interactive Dashboard
 [View Live Dashboard Here](https://lookerstudio.google.com/reporting/923eb516-1644-4445-90aa-d2f7726986f5)
+
+## Notion Field Observation
+https://www.notion.so/Operational-Audit-Mie-Gacoan-Malang-Suhat-33cba0d83dcf80c0aa2dc5f7d421d0cb
