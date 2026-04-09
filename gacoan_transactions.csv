@@ -1,0 +1,14 @@
+trx_id,timestamp,item_name,category,price_net,qty,total_net,customer_segment
+TRX001,19:15,Mie Gacoan Lv 8,Mie,10.910,1,10.910,Student
+TRX001,19:15,Udang Keju,Dimsum,10.000,1,10.000,Student
+TRX002,19:21,Mie Gacoan Lv 8,Mie,10.910,1,10.910,Student (Billy)
+TRX002,19:21,Mie Gacoan Lv 1,Mie,10.910,1,10.910,Student (Billy)
+TRX002,19:21,Es Teh,Beverage,5.000,1,5.000,Student (Billy)
+TRX002,19:21,Udang Keju,Dimsum,10.000,1,10.000,Student (Billy)
+TRX003,19:30,Mie Hompimpa,Mie,10.910,1,10.910,Family
+TRX003,19:30,Es Gobak Sodor,Es Buah,9.546,1,9.546,Family
+TRX004,19:45,Es Milo,Beverage,8.637,1,8.637,Family
+TRX004,19:45,Siomay,Dimsum,10.000,1,10.000,Family
+TRX005,20:12,Udang Rambutan,Dimsum,10.000,3,30.000,Student
+TRX005,20:12,Es Teklek,Es Buah,6.819,1,6.819,Student
+
